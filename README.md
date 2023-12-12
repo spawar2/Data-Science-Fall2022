@@ -1,4 +1,4 @@
-[# Data-Science-Fall2022 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-math111)
+Learning Objectives [# Data-Science-Fall2022 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-math111)
 
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 

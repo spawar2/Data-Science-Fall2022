@@ -1,5 +1,5 @@
 Learning Objectives [# Data-Science-Fall2022 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-math111)
-
+Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
 Data Science:

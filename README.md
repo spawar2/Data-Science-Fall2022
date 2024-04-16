@@ -14,4 +14,4 @@ https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
 
 [Github:](https://github.com/spawar2/Data-Science-Fall2022)
 
-Data Science (4 credit) Spring 2023 (10 students)
+Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab:

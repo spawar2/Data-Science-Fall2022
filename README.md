@@ -17,3 +17,10 @@ https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
 Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
+
+First-Program.R, Program-Aug26.R: Data types: Integer, floats, string, characters, Data structures: List, vectors, data frames, matrix.
+Nov-2.R: Chi-square analysis in R.
+Sep-14.R: Analysis of Variance (ANOVA) test and ggscatter plot.
+Sep-2.R: Correlation test analysis and scatter plotting.
+Sep-7.R: Correlation test analysis and scatter plotting.
+Sep23.R: T-test analysis and line plot.

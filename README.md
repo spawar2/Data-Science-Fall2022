@@ -3,7 +3,7 @@ Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, De
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
 Data Science:
-[R: ggpubr, tidyverse, datarium, dplyr]
+[R: ggpubr, tidyverse, datarium, dplyr].
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
 
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)

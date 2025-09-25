@@ -27,5 +27,5 @@ Sep-14.R: Analysis of Variance (ANOVA) test and ggscatter plot.
 Sep-2.R: Correlation test analysis and scatter plotting.
 Sep-7.R: Correlation test analysis and scatter plotting.
 Sep23.R: T-test analysis and line plot.
-selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Normal distribution: Ttest.pdf
+selected function(chisq.test, pData, rep, colnames, factor, glimpse(df), eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Normal distribution: Ttest.pdf
 
